@@ -1,0 +1,10 @@
+print test
+theme red
+$test=100
+print $test
+theme cyan
+$var=foo
+print $test $var
+print it works
+theme green
+log
